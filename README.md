@@ -1,10 +1,10 @@
 # GZip
 
-GZip is intended to be a PowerShell module for handling GZip archives.
+GZip is intended to be a PowerShell module for compressing and decompressing gzip files.
 
 ## Status
 
-This repository is currently a placeholder. The module source still contains scaffold code, so there are no supported commands or usage examples to document yet.
+This repository is currently a placeholder. The module source still contains template scaffold commands used by tests, but no supported gzip-focused commands or usage examples are available yet.
 
 ## Documentation
 
